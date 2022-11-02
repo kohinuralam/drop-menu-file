@@ -1,0 +1,55 @@
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+	
+}
+
+/* FOR-LG-START */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	
+
+
+	
+
+	
+} 
+
+/*FOR-TABLATE-START*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+	.header-section {
+		display: none;
+	}
+
+	.header-section {
+  		padding: 27px 0 200px 0;
+  	}
+	
+
+	
+
+}
+
+/*FOR-MOBIL-START*/
+@media screen and (max-width: 767px) {
+
+	.mobil-header {
+		display: block;
+	}
+
+	.header-section {
+		display: none;
+	}
+
+	
+
+
+
+}
+
+
+
+
+		
+		         
